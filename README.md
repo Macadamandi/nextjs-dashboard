@@ -1,5 +1,7 @@
 # Next.js Dashboard
 
+**[Live Demo](https://nextjs-dashboard-mauve-tau-51.vercel.app/dashboard)**
+
 This project was created as part of my practice with **Next.js** and the **Next.js App Router**.
 
 The application is based on the official Next.js Dashboard tutorial and was developed as a learning project to practice building a modern full-stack web application with Next.js.
